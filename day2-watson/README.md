@@ -26,4 +26,5 @@ Key objectives of this lab:
 **APIs used:** [Visual Recognition](http://www.ibm.com/watson/developercloud/visual-recognition.html), [Speech to Text](http://www.ibm.com/watson/developercloud/speech-to-text.html), [Language Translation](http://www.ibm.com/watson/developercloud/language-translation.html)
 
 **Link to Instructions:** https://github.com/purukn/image-analysis/blob/master/INSTRUCTIONS.md
+
 **Link to the project in GitHub:** https://github.com/purukn/image-analysis
