@@ -15,7 +15,7 @@ https://github.com/VidyasagarMSC/mfp8-watsonclassifier-android/archive/master.zi
 - Start the MobileFirst Server by clicking on 'Start Basic Server'.
 
 ## Let's go Cognitive with Watson Classifier 
-[Move to "Add the Sample training data" if you already have a service created]
+<strong>Note:</strong> [Move to "Add the Sample training data" if you already have a service created]
 - Go to the “CATALOG” in the top nav bar and select “Watson” Services.
 - Click on “Natural Language Classifier”.
 - Pick the defaults.
@@ -75,7 +75,7 @@ phase, not yet ready to accept classify requests"}</em>
 ## Edit and Run via Android Studio
 Go back to Android studio
 - Edit the file app\java\HttpStuff.java
-- Replace username and password from your bluemix service credentials
+- Replace username and password from your Classifier service credentials.
 - classifierID from the Postman response
 - Start the emulator and Run the app
 - Try the app – ask something like “Do I need a jacket today?”
